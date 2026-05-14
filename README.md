@@ -13,6 +13,6 @@ Successfully transformed a non-spatial regional transit map into a topologically
 * **Attribute Management:** Schema-compliant metadata capture for AI/ML readiness.
 
 ## Contents
-* [Technical Report (PDF)](./Reports/Marcel_Joseph_GIS_Portfolio_Report.pdf)
-* [Workflow Evidence](./Evidence/)
-* [Source Data](./Source-Data/)
+* [Technical Report (PDF)](./Marcel_Joseph_GIS_Portfolio_Report.pdf)
+* [QGIS Workflow Evidence (Image)](./QGIS_Digitization_Workflow_Evidence.png)
+* [Source Transit Map (JPEG)](./Transportation_00039_Document_2dc1a7b4.jpg)
