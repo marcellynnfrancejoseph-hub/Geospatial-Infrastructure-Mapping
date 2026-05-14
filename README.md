@@ -1,5 +1,5 @@
 # Geospatial Infrastructure & Network Mapping
-**Technical Specialist:** Lewis Mwaniki
+**Technical Specialist:** Marcel Joseph
 
 This repository demonstrates advanced proficiency in converting legacy cartographic assets into high-fidelity, attribute-rich vector datasets using **QGIS 3.x**.
 
